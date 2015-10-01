@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="47edea4a-5e4b-4edc-8499-868ee664bcd4" 
+        solutionId="47edea4a-5e4b-4edc-8499-868ee664bcd4" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SmarterSharePointWorkflowAction"
+        sharePointProductVersion="15.0">
+</package>

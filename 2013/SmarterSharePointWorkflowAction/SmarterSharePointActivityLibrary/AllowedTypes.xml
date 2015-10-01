@@ -1,0 +1,7 @@
+﻿<AllowedTypes>
+  <Assembly Name="SmarterSharePointActivityLibrary">
+    <Namespace Name="SmarterSharePointActivityLibrary">
+      <Type>SmarterSharePointActivityLibrary</Type>
+    </Namespace>
+  </Assembly>
+</AllowedTypes>
