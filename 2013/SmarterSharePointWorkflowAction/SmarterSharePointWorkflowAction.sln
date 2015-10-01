@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterSharePointWorkflowAction", "SmarterSharePointWorkflowAction\SmarterSharePointWorkflowAction.csproj", "{5B4A9336-BD78-4303-922D-36FF49D888DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterSharePointActivityLibrary", "SmarterSharePointActivityLibrary\SmarterSharePointActivityLibrary.csproj", "{0ECABB9E-16E6-4D76-A2F4-815B25379A8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{5B4A9336-BD78-4303-922D-36FF49D888DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B4A9336-BD78-4303-922D-36FF49D888DD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5B4A9336-BD78-4303-922D-36FF49D888DD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0ECABB9E-16E6-4D76-A2F4-815B25379A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECABB9E-16E6-4D76-A2F4-815B25379A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECABB9E-16E6-4D76-A2F4-815B25379A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECABB9E-16E6-4D76-A2F4-815B25379A8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
